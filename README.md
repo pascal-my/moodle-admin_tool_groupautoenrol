@@ -1,3 +1,6 @@
+**This plugin is closed, see https://github.com/LdesignMedia/moodle-tool_groupautoenrol**
+
+
 Version history :
 - 1.1 : stable version not working (bug)
 - 1.1.1 : stable version working as local plugin for Moodle 2.x (see https://github.com/pascal-my/moodle-local_groupautoenrol)
